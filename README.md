@@ -14,6 +14,7 @@ Controls
 
 Libraries used
 curses- Used due to its intuitive key-handling capabilites as well as it's ability toe asily diaplay text on diffferent parts of the screen such as the game over text that appears when you crash into the wall or yourself.
+
 random- Used to ensure the food respawns at random places within the arena
 
 Ensure you have these libraries downloaded if you wish to run the game.
