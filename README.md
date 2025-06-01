@@ -1,35 +1,32 @@
-Snake Game
 
-A terminal-based implementation of the classic Snake game, written in Python using the curses module. 
+# Project Title
 
-Features
+Hello! This is a snake game I made completely using Python so that I could improve my skills. This is a terminal based-application.
 
--Arrow key controls
 
--Food spawning with growth
+## Features
 
--Wall and self-collision detection
+- Multiple rounds can be played in one run
+- Easily change the layout of the arena
+- Uses keyboard commands (up down left right) to move
+- Score tracking
+- Food spawning with growth
+- Wall and self-collision detection
+- ↑ / ↓ / ← / → – Move snake
+- Automatic replay prompt after Game Over
 
--Score tracking
 
--Replay up to 3 rounds
+## Demo
 
-Controls
 
--↑ / ↓ / ← / → – Move snake
+https://github.com/user-attachments/assets/21536ba2-21a8-4475-963d-26e86cf21ae2
 
--Automatic replay prompt after Game Over
 
-Libraries used
 
-curses- Used due to its intuitive key-handling capabilites as well as it's ability toe asily diaplay text on diffferent parts of the screen such as the game over text that appears when you crash into the wall or yourself.
-
-random- Used to ensure the food respawns at random places within the arena
-
-Ensure you have these libraries downloaded if you wish to run the game.
 
 File Structure
-snakegame.py-- Main game logic
+snakegame.py-- Main game logic 
+
 README.md-- Overview of the game
 
 
