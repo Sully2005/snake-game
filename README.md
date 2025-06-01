@@ -18,13 +18,12 @@ Hello! This is a snake game I made completely using Python so that I could impro
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/21536ba2-21a8-4475-963d-26e86cf21ae2
-
-
+https://github.com/user-attachments/assets/6e83af93-b949-4838-b060-185a3e9a6516
 
 
 File Structure
+
+
 snakegame.py-- Main game logic 
 
 README.md-- Overview of the game
