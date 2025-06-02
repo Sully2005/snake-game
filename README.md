@@ -1,5 +1,5 @@
 
-# Project Title
+# Snake Game
 
 Hello! This is a snake game I made completely using Python so that I could improve my skills. This is a terminal based-application.
 
